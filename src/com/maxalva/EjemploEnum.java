@@ -16,7 +16,6 @@ public class EjemploEnum {
 		indicarPais(Continentes.AFRICA);
 		indicarPais(Continentes.ASIA);
 		indicarPais(Continentes.OCEANIA);
-		indicarPais(Continentes.AMERICA);
 		
 		System.out.println("");
 		
